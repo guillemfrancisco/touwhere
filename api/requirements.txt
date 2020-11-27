@@ -1,3 +1,4 @@
 fastapi
 uvicorn
+geojson_pydantic
 h3
