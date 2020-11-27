@@ -1,6 +1,3 @@
 fastapi
 uvicorn
-geojson_pydantic
-shapely
-geojson
 h3
